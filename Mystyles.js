@@ -43,7 +43,7 @@ export const styles = StyleSheet.create({
       backgroundColor : 'white'
     },
     resultText : {
-      fontSize : 35
+      fontSize : 45
     },
     font : {
       fontSize : 42
